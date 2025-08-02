@@ -1,0 +1,6 @@
+{
+  "explorer.compactFolders": false,
+  "workbench.editorAssociations": {
+    "*.svg": "default"
+  }
+}
